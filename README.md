@@ -2,7 +2,7 @@
 
 i'm a Fronted Developer
 
-Currently i'm working on -> [DM](https://darkmaterial.space)
+Currently i'm working on -> [There](https://darkmaterial.space)
 
 <!--  Currently i'm working on my portfolio, u can see my projects on [there](https://darkmaterial.space/yz13) -->
 
