@@ -1,6 +1,6 @@
 👋 Hello there
 
-i'm a Fronted Developer
+i'm a fullstack developer
 
 Currently i'm working on -> [This](https://darkmaterial.space)
 
