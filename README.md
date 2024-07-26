@@ -1,6 +1,6 @@
 👋 Hello there
 
-i'm a frontend developer
+i'm a fullstack developer
 
 Currently i'm working on [YZ13](https://www.yz13.space)
 <!--  Currently i'm working on my portfolio, u can see my projects on [there](https://yz13.space) -->
